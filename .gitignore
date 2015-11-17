@@ -1,0 +1,12 @@
+#PSoC Creator
+CortexM0/
+Export/
+Generated_Source/
+codegentemp/
+
+#Atmel Studio
+Debug/
+
+#visual Studio
+Debug/
+ipch/
